@@ -64,7 +64,7 @@ Following OpenCV methods were used:
 <h2> Discussion </h2>
 
 <ul>
-<li>As per our experiments, better accuracy was obtained when the background was plain.</li>
+<li>As per my experiments, better accuracy was obtained when the background was plain.</li>
 <li>Similar gestures like peace and palm were mistakenly recognized sometimes.</li>
 <li>Rather than looping through different scaling factors for matching the template, we can extract the area of the palm and scale the template accordingly to make the program run much faster.</li>
 
