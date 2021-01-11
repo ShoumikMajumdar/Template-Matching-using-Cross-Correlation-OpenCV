@@ -1,8 +1,11 @@
+#import Libraries
+
 import numpy as np
 import cv2 as cv
 import imutils
 
 
+# Resize, convert to greyscale and thresholding.
 def preprocess(img):
     img = cv.resize(img, (300, 300))
     template = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
@@ -11,7 +14,6 @@ def preprocess(img):
 
 
 firstframe=0
-
 backSub = cv.createBackgroundSubtractorKNN()
 
 
