@@ -1,15 +1,6 @@
 # Template-Matching-using-Cross-Correlation-OpenCV
 
 <body style="">
-<center>
-<a href="http://www.bu.edu/"><img border="0" src="http://www.cs.bu.edu/fac/betke/images/bu-logo.gif" width="119" height="120"></a>
-</center>
-
- Shoumik Majumdar<br>
- Team-mate: Tushar Sharma<br>
- <!--Your teammate names if applicable <br>-->
-Feb 12, 2020
-</p>
 
 <div class="main-body">
 <hr>
